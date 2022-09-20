@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#links
+{
+    background-color: grey;
+    width: 100%;
+    height: 40px;
+    text-align: right;   
+    font-size: 20px; 
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+#info
+{
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+#datos
+{
+    background-color: grey;
+    width: 100%;
+    height: 40px;
+    text-align:center;   
+    font-size: 20px; 
+    margin-top: 150px;
+    padding-top: 15px;
+}
+
